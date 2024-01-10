@@ -1,1 +1,1 @@
-# Tutorials
+# STA302 Tutorials
